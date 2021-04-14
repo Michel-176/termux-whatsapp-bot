@@ -1,6 +1,6 @@
 
 <P align="center">
-    <img alt="Im Lexa" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
+    <img alt="Im Michel" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
 
 </P>
 
@@ -21,7 +21,7 @@
 <a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/search/mrfzvx12/mrfzvx12/whatsapp?label=Search&style=plastic"></a>
 </p>
 
-# Lest begin's
+# Lest b's
 * Klik stars agar bisa terus update
 * Klik watch agar dapat notifikasi ketika update
 * Semua fitur work tergantung api dan apikey
@@ -67,7 +67,7 @@ Contoh default :
 ```
 {
 	"prefix": ".",
-	"ownerNumber": "6282223014661",
+	"ownerNumber": "6283811473200",
 	"BarBarKey": "YourApiKey",
 	"Vhtearkey": "YourApiKey",
 	"LolHumanKey": "YourApiKey",
@@ -77,7 +77,7 @@ Contoh default :
   "memberlimit": "20",
   "cr": "𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️",
   "hargalimit": "500",
-  "NamaBot": "Lexa V.2",
+  "NamaBot": "Sakura V.2",
   "Ig": "http://www.instagram.com/mrf.zvx/",
   "Wa1": "https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst",
   "Wa2": "https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv",
@@ -96,9 +96,9 @@ Contoh default :
 ```
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Lexa bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' // Nomor owner
++ 'FN:𝙼𝚒𝚌𝚑𝚎𝚕\n' // Nama
++ 'OR:𝚂𝚊𝚔𝚞𝚛𝚊 bot;\n' // Nama bot
++ 'TEL;type=CELL;type=VOICE;waid=6283811473200:+62 838-1147-3200\n' // Nomor owner
 + 'END:VCARD' 
 ```
 
